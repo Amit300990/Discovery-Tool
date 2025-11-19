@@ -1,0 +1,2 @@
+# Run Cryptographic Discovery Daily at Midnight
+0 0 * * * /Users/amitkumarthakur/Downloads/Discovery\ Tool/ops/schedule_collectors.sh

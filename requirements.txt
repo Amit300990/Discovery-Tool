@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+boto3
+azure-identity
+azure-keyvault-keys
+azure-keyvault-certificates
+azure-keyvault-secrets
+google-cloud-kms
+google-cloud-asset
+pandas
+xlsxwriter
